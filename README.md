@@ -2,15 +2,11 @@
 
 OpenLLMToSpeech is a small provider-agnostic bridge between LLMs and text‑to‑speech systems. The goal is to make it straightforward to plug in different LLM & TTS providers and (eventually) local models.
 
----
-
 ## Goals
 
 - Minimal core logic, no provider‑specific coupling
 - Easy to add new LLM providers
 - Designed to expand toward local inference
-
----
 
 ## How It Works
 
@@ -20,8 +16,6 @@ OpenLLMToSpeech is a small provider-agnostic bridge between LLMs and text‑to�
 4. The output is returned to the TTS layer
 
 The core does not care _how_ the text is generated, only that the provider respects the expected interface.
-
----
 
 ## Current Providers
 
@@ -46,8 +40,6 @@ The recommended way to add a provider is to copy the `DummyLLM/TTS.cs` and adapt
 2. Rename it to your provider name
 3. Implement the provider interface
 
----
-
 ## Planned Expansion
 
 - Support for Hugging Face models (local inference)
@@ -55,8 +47,6 @@ The recommended way to add a provider is to copy the `DummyLLM/TTS.cs` and adapt
 - Provider‑specific configuration handling
 
 The architecture is intentionally kept simple to avoid refactors when adding new backends.
-
----
 
 ## Feature Requests and Contributions
 
@@ -68,8 +58,6 @@ Pull requests should:
 - Follow the existing provider interface
 - Avoid adding unnecessary abstractions
 
----
-
 ## License
 
-MIT (unless stated otherwise)
+MIT
