@@ -42,11 +42,9 @@ The recommended way to add a provider is to copy the `DummyLLM/TTS.cs` and adapt
 
 ## Planned Expansion
 
-- Support for Hugging Face models (local inference)
+- Support for Hugging Face models
 - Multiple provider selection at runtime
-- Provider‑specific configuration handling
-
-The architecture is intentionally kept simple to avoid refactors when adding new backends.
+- ASP API interface
 
 ## Feature Requests and Contributions
 
