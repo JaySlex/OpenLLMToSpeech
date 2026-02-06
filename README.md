@@ -45,6 +45,7 @@ The recommended way to add a provider is to copy the `DummyLLM/TTS.cs` and adapt
 - Support for Hugging Face models
 - Multiple provider selection at runtime
 - ASP API interface
+- Support for Speech to Text for fully audio conversation
 
 ## Feature Requests and Contributions
 
