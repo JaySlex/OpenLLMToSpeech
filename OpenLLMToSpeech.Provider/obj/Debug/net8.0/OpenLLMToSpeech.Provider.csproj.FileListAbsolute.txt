@@ -1,0 +1,15 @@
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\bin\Debug\net8.0\OpenLLMToSpeech.Provider.deps.json
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\bin\Debug\net8.0\OpenLLMToSpeech.Provider.dll
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\bin\Debug\net8.0\OpenLLMToSpeech.Provider.pdb
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\bin\Debug\net8.0\OpenLLMToSpeech.Core.dll
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\bin\Debug\net8.0\OpenLLMToSpeech.Core.pdb
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMToSpeech.Provider.csproj.AssemblyReference.cache
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMToSpeech.Provider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMToSpeech.Provider.AssemblyInfoInputs.cache
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMToSpeech.Provider.AssemblyInfo.cs
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMToSpeech.Provider.csproj.CoreCompileInputs.cache
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMT.F95135B0.Up2Date
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMToSpeech.Provider.dll
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\refint\OpenLLMToSpeech.Provider.dll
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\OpenLLMToSpeech.Provider.pdb
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeech.Provider\obj\Debug\net8.0\ref\OpenLLMToSpeech.Provider.dll

@@ -1,0 +1,11 @@
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\bin\Debug\net8.0\OpenLLMToSpeech.Core.deps.json
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\bin\Debug\net8.0\OpenLLMToSpeech.Core.dll
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\bin\Debug\net8.0\OpenLLMToSpeech.Core.pdb
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\OpenLLMToSpeech.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\OpenLLMToSpeech.Core.AssemblyInfoInputs.cache
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\OpenLLMToSpeech.Core.AssemblyInfo.cs
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\OpenLLMToSpeech.Core.csproj.CoreCompileInputs.cache
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\OpenLLMToSpeech.Core.dll
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\refint\OpenLLMToSpeech.Core.dll
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\OpenLLMToSpeech.Core.pdb
+C:\Users\ilesb\source\repos\OpenLLMToSpeech\OpenLLMToSpeechCore\obj\Debug\net8.0\ref\OpenLLMToSpeech.Core.dll
