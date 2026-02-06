@@ -57,5 +57,3 @@ public sealed class OpenAiLLM : LLM
             .GetString()!;
     }
 }
-
-//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
